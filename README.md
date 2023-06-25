@@ -4,6 +4,8 @@ Este es un paquete para hacer prueba de despliegue a NPM
 
 ## Ejemplo
 
+Use el siguiente ejemplo para probar el paquete
+
 ```
 import {ProductCard, ProductImage, ProductTitle, ProductButtons} from 'do-product-cart';
 ```
